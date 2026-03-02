@@ -22,3 +22,4 @@ Clean up unused imports
 Improve error messages
 Add comments and documentation
 Refactor database connection handling
+Add unit tests for ProjectService
