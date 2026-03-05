@@ -25,3 +25,4 @@ Refactor database connection handling
 Add unit tests for ProjectService
 Fix null pointer in login flow
 Fix typo in UI labels
+Fix null pointer in login flow
