@@ -28,3 +28,4 @@ Fix typo in UI labels
 Fix null pointer in login flow
 Refactor inheritance hierarchy for users
 Implement meeting scheduler
+Add proposal submission feature
