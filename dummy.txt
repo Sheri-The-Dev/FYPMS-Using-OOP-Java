@@ -29,3 +29,4 @@ Fix null pointer in login flow
 Refactor inheritance hierarchy for users
 Implement meeting scheduler
 Add proposal submission feature
+Add Supervisor model
