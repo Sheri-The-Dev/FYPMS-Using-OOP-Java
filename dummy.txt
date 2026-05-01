@@ -34,3 +34,4 @@ Clean up unused imports
 Improve code readability
 Refactor service layer
 Add unit tests for ProjectService
+Update README
