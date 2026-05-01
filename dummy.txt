@@ -36,3 +36,4 @@ Refactor service layer
 Add unit tests for ProjectService
 Update README
 Add Student entity class
+Minor fixes
