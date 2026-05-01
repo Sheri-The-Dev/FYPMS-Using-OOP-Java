@@ -31,3 +31,4 @@ Implement meeting scheduler
 Add proposal submission feature
 Add Supervisor model
 Clean up unused imports
+Improve code readability
