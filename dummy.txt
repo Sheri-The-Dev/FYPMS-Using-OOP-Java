@@ -44,3 +44,4 @@ Minor fixes
 Update dependencies
 Add Supervisor model
 Improve code readability
+Refactor database connection handling
