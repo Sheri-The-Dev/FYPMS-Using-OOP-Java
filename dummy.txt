@@ -41,3 +41,4 @@ Add exception handling
 Add input validation for forms
 Fix typo in UI labels
 Minor fixes
+Update dependencies
