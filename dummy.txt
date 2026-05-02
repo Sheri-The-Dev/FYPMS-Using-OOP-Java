@@ -43,3 +43,4 @@ Fix typo in UI labels
 Minor fixes
 Update dependencies
 Add Supervisor model
+Improve code readability
