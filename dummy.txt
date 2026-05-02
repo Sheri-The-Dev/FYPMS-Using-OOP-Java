@@ -38,3 +38,4 @@ Update README
 Add Student entity class
 Minor fixes
 Add exception handling
+Add input validation for forms
