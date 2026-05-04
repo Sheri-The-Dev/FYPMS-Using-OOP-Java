@@ -47,3 +47,4 @@ Improve code readability
 Refactor database connection handling
 Add comments and documentation
 Minor fixes
+Add evaluation module
