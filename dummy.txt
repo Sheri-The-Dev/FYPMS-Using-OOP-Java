@@ -54,3 +54,4 @@ Add Supervisor model
 Add evaluation module
 Implement meeting scheduler
 Add unit tests for ProjectService
+Minor fixes
