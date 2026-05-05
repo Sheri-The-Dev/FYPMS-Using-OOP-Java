@@ -56,3 +56,4 @@ Implement meeting scheduler
 Add unit tests for ProjectService
 Minor fixes
 Fix merge conflicts
+Refactor service layer
