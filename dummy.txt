@@ -57,3 +57,4 @@ Add unit tests for ProjectService
 Minor fixes
 Fix merge conflicts
 Refactor service layer
+Fix typo in UI labels
