@@ -51,3 +51,4 @@ Add evaluation module
 Add proposal submission feature
 Improve error messages
 Add Supervisor model
+Add evaluation module
