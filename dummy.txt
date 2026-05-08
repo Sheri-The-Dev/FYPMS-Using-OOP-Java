@@ -63,3 +63,4 @@ Add Student entity class
 Improve error messages
 Refactor inheritance hierarchy for users
 Add unit tests for ProjectService
+Fix merge conflicts
