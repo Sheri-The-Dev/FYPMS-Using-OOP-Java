@@ -59,3 +59,4 @@ Fix merge conflicts
 Refactor service layer
 Fix typo in UI labels
 Fix encapsulation in Group class
+Add Student entity class
